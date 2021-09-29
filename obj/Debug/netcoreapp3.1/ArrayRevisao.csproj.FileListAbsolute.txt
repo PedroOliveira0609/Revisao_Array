@@ -1,0 +1,13 @@
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\bin\Debug\netcoreapp3.1\ArrayRevisao.exe
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\bin\Debug\netcoreapp3.1\ArrayRevisao.deps.json
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\bin\Debug\netcoreapp3.1\ArrayRevisao.runtimeconfig.json
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\bin\Debug\netcoreapp3.1\ArrayRevisao.runtimeconfig.dev.json
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\bin\Debug\netcoreapp3.1\ArrayRevisao.dll
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\bin\Debug\netcoreapp3.1\ArrayRevisao.pdb
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\obj\Debug\netcoreapp3.1\ArrayRevisao.csprojAssemblyReference.cache
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\obj\Debug\netcoreapp3.1\ArrayRevisao.AssemblyInfoInputs.cache
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\obj\Debug\netcoreapp3.1\ArrayRevisao.AssemblyInfo.cs
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\obj\Debug\netcoreapp3.1\ArrayRevisao.csproj.CoreCompileInputs.cache
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\obj\Debug\netcoreapp3.1\ArrayRevisao.dll
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\obj\Debug\netcoreapp3.1\ArrayRevisao.pdb
+C:\Projetos\ams\1ano\SEMESTRE2\ArrayColRevisao\ArrayRevisao\obj\Debug\netcoreapp3.1\ArrayRevisao.genruntimeconfig.cache
