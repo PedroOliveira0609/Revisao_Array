@@ -8,7 +8,7 @@ namespace ArrayRevisao
         {        
             string nime = string.Empty;
 
-            string[] anime = new string[10];
+            string[] anime = new string[11];
             anime[0] = "One piece";
             anime[1] = "Bleach";
             anime[2] = "High school dxd";
@@ -19,6 +19,7 @@ namespace ArrayRevisao
             anime[7] = "Super onze";
             anime[8] = "Dinosauro rei";
             anime[9] = "Blue Exorcist";
+            anime[10] = "Naruto"
 
             if (nime == "anime");
             {
